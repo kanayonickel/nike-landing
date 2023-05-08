@@ -1,0 +1,613 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="portfolio">
+    <meta name="keywords" content="The best way to showcase & introduce your sneaker product.">
+
+	<!-- Page Title -->
+	<title>Nike Mockup</title>
+	<!-- Google Fonts css-->
+	<link href="../../../css.css?family=Rubik:300,400,500,600,700,900%7CSaira+Semi+Condensed:300,400,500,600,700,800,900" rel="stylesheet">
+	<!-- Bootstrap css -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="css/bootsnav.css" rel="stylesheet" media="screen">
+	<!-- Font Awesome icon css-->
+	<link href="css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<link href="css/flaticon.css" rel="stylesheet" media="screen">
+	<!-- Swiper's CSS -->
+	<link rel="stylesheet" href="css/swiper.min.css">
+	<!-- Animated css -->
+	<link href="css/animate.css" rel="stylesheet">
+	<!-- Main custom css -->
+	<link href="css/custom.css" rel="stylesheet" media="screen">
+
+</head>
+<body>
+	
+	<!-- Preloader starts -->
+	<div class="preloader">
+		<span class="loader">
+			<span class="loader-inner"></span>
+		</span>
+	</div>
+	<!-- Preloader Ends -->
+
+	<!-- Header Section Starts-->
+	<header>
+		<nav class="navbar navbar-default navbar-fixed-top navbar-scrollspy bootsnav" data-minus-value-desktop="67" data-minus-value-mobile="73" data-speed="1000">
+			<div class="container">      
+				<!-- Start Header Navigation -->
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#"><img src="images/footer-logo.png" class="logo" alt=""></a>
+					
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+						<i class="fa fa-bars"></i>
+					</button>
+				</div>
+				<!-- End Header Navigation -->
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="navbar-menu">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active scroll"><a href="#home">Home</a></li>
+						<li class="scroll"><a href="#about">About</a></li>
+						<li class="scroll"><a href="#features">Features</a></li>
+						<li class="scroll"><a href="#related">Related</a></li>
+						<li class="scroll"><a href="#review">Review</a></li>
+						<li class="scroll"><a href="#product">Products</a></li>
+						<li class="scroll"><a href="#contact">Contact</a></li>
+					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div>   
+		</nav>
+	</header>
+	<!-- Header Section Ends-->
+	
+	<!-- Banner Section Starts -->
+	<section class="banner" id="home">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-sm-6">
+					<div class="slider-image wow fadeInLeft">
+						<img src="images/header.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-6">
+					<div class="header-content wow fadeInUp">
+						<h2 class="text-blue wow fadeInRight" data-wow-delay="0.4s">Nike</h2>
+						<h2 class="text-lightblue wow fadeInRight" data-wow-delay="0.6s">Air Jordan</h2>
+						<h2 class="text-white wow fadeInRight" data-wow-delay="0.8s">Retro XI</h2>
+						<a href="#" class="btn-booknow">Book Your Slot Now</a>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+	<!-- Banner Section Ends -->
+	
+	<!-- About us section starts -->
+	<section class="aboutus" id="about">
+		<div class="container">
+			<div class="row">
+				<!-- About us content start -->
+				<div class="col-md-8 col-sm-7">
+					<div class="section-title wow fadeInUp">
+						<h2>About Us</h2>
+						<p>Inspirational Story</p>
+					</div>
+					
+					<div class="about-entry">
+						<p>In dance, your moves speak to who you really are. What will you bring?</p>
+						
+						<p><b>We have been the industry standard</b> ever since the 1985	, We own the dance floor, The cruise floor. The Disco</p>
+					</div>
+				</div>
+				<!-- About us content end -->
+				
+				<!-- About us Image start -->
+				<div class="col-md-4 col-sm-5">
+					<div class="about-image wow fadeInRight">
+						<img src="images/about.png" alt="">
+					</div>
+				</div>
+				<!-- About us Image end -->
+			</div>
+		</div>
+	</section>
+	<!-- About us section ends -->
+	
+	<!-- Features section starts -->
+	<section class="features" id="features">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title wow fadeInUp">
+						<p>Superior Features</p>
+						<h2>Perfect For Gym</h2>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<div class="features-image">
+						<img src="images/feature.png" alt="">
+					</div>
+				</div>
+				
+				<div class="col-md-3 col-sm-6">
+					<div class="feature-single wow fadeInUp" data-wow-delay="0.2s">
+						<h3>01</h3>
+						<h4>Flexible Base</h4>
+						<p>Comfort is priority. The outlook is the game. You are You. Just Do It</p>
+					</div>
+				</div>
+				
+				<div class="col-md-3 col-sm-6">
+					<div class="feature-single wow fadeInUp" data-wow-delay="0.4s">
+						<h3>02</h3>
+						<h4>Strong & Stable</h4>
+						<p>Step up  your game. Beat them to it. Just Do It</p>
+					</div>
+				</div>
+				
+				<div class="col-md-3 col-sm-6">
+					<div class="feature-single wow fadeInUp" data-wow-delay="0.6s">
+						<h3>03</h3>
+						<h4>Superior Durability</h4>
+						<p>Comfort is priority. The outlook is the game. You are You. Just Do It</p>
+					</div>
+				</div>
+				
+				<div class="col-md-3 col-sm-6">
+					<div class="feature-single wow fadeInUp" data-wow-delay="0.8s">
+						<h3>04</h3>
+						<h4>Unique Pattern</h4>
+						<p>Comfort is priority. The outlook is the game. You are You. Just Do It</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Features section ends -->
+	
+	<!-- Related Product starts -->
+	<section class="related-product" id="related">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title wow fadeInUp">
+						<p>Related Product</p>
+						<h2>You May Like This</h2>
+					</div>
+				</div>
+			</div>
+			
+			<!-- Related Product Single start -->
+			<div class="row related-single">
+				<div class="col-md-6 col-sm-6">
+					<div class="related-product-info">
+						<h3>Nike Metcon 4 iD</h3>
+						
+						<p>Comfort is priority. The outlook is the game. You are You. Just Do It dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+						
+						<p>Comfort is priority. The outlook is the game. You are You. Just Do It.</p>
+						
+						<a href="#" class="btn-booknow">$100 | Buy Now</a>
+					</div>
+				</div>
+				
+				<div class="col-md-5 col-md-offset-1 col-sm-6">
+					<div class="related-product-image wow fadeInRight">
+						<img src="images/related-1.png" alt="">
+					</div>
+				</div>
+			</div>
+			<!-- Related Product Single end -->
+			
+			<!-- Related Product Single start -->
+			<div class="row related-single">
+				<div class="col-md-6 col-md-offset-1 col-sm-6 pull-right">
+					<div class="related-product-info">
+						<h3>Nike Metcon 4 iD</h3>
+						
+						<p>Comfort is priority. The outlook is the game. You are You. Just Do It dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+						
+						<p>Comfort is priority. The outlook is the game. You are You. Just Do It.</p>
+						
+						<a href="#" class="btn-booknow">$100 | Buy Now</a>
+					</div>
+				</div>
+				
+				<div class="col-md-5 col-sm-6">
+					<div class="related-product-image wow fadeInLeft">
+						<img src="images/related-2.png" alt="">
+					</div>
+				</div>
+			</div>
+			<!-- Related Product Single end -->
+		</div>
+	</section>
+	<!-- Related Product ends -->
+	
+	<!-- Testimonial section starts -->
+	<section class="testimonial" id="review">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title">
+						<p>Product Review</p>
+						<h2>Our Client Love Us</h2>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<div class="swiper-container testimonial-slider">
+						<div class="swiper-wrapper">
+							<!-- Review slide start -->
+							<div class="swiper-slide">
+								<div class="testimonial-single">
+									<p>I must say I am really impress with their speed of delivery</p>
+									<div class="ratting">
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+									</div>
+									<h3>Stephanie Gaskel<span>New York</span></h3>
+								</div>
+							</div>
+							<!-- Review slide end -->
+							
+							<!-- Review slide start -->
+							<div class="swiper-slide">
+								<div class="testimonial-single">
+									<p>I must say I am really impress with their speed of delivery</p>
+									<div class="ratting">
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+									</div>
+									<h3>Adaora Nwanne<span>Enugu</span></h3>
+								</div>
+							</div>
+							<!-- Review slide end -->
+							
+							<!-- Review slide start -->
+							<div class="swiper-slide">
+								<div class="testimonial-single">
+									<p>I must say I am really impress with their speed of delivery</p>
+									<div class="ratting">
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+									</div>
+									<h3>Gabrielle Union<span>New York</span></h3>
+								</div>
+							</div>
+							<!-- Review slide end -->
+						</div>
+					
+						<div class="testimonial-pagination"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Testimonial section ends -->
+	
+	<!-- Product section starts -->
+	<div class="products" id="product">
+		<div class="container-fluid">
+			<div class="row no-gutters">
+				<!-- Product single start -->
+				<div class="col-md-3 col-sm-6">
+					<div class="product-single">
+						<div class="product-image">
+							<figure>
+								<img src="images/product-1.jpg" alt="">
+							</figure>
+						</div>
+						
+						<div class="product-info">
+							<h3>Air Jordan 6 Retro</h3>
+							<p>Take upto <span>50% off</span></p>
+							<a href="#" class="btn-booknow">View More</a>
+						</div>
+					</div>
+				</div>
+				<!-- Product single end -->
+				
+				<!-- Product single start -->
+				<div class="col-md-3 col-sm-6">
+					<div class="product-single">
+						<div class="product-image">
+							<figure>
+								<img src="images/product-2.jpg" alt="">
+							</figure>
+						</div>
+						
+						<div class="product-info">
+							<h3>Air Jordan 6 Retro</h3>
+							<p>Take upto <span>50% off</span></p>
+							<a href="#" class="btn-booknow">View More</a>
+						</div>
+					</div>
+				</div>
+				<!-- Product single end -->
+				
+				<!-- Product single start -->
+				<div class="col-md-3 col-sm-6">
+					<div class="product-single">
+						<div class="product-image">
+							<figure>
+								<img src="images/product-3.jpg" alt="">
+							</figure>
+						</div>
+						
+						<div class="product-info">
+							<h3>Air Jordan 6 Retro</h3>
+							<p>Take upto <span>50% off</span></p>
+							<a href="#" class="btn-booknow">View More</a>
+						</div>
+					</div>
+				</div>
+				<!-- Product single end -->
+				
+				<!-- Product single start -->
+				<div class="col-md-3 col-sm-6">
+					<div class="product-single">
+						<div class="product-image">
+							<figure>
+								<img src="images/product-4.jpg" alt="">
+							</figure>
+						</div>
+						
+						<div class="product-info">
+							<h3>Air Jordan 6 Retro</h3>
+							<p>Take upto <span>50% off</span></p>
+							<a href="#" class="btn-booknow">View More</a>
+						</div>
+					</div>
+				</div>
+				<!-- Product single end -->
+			</div>
+		</div>
+	</div>
+	<!-- Product section ends -->
+	
+	<!-- Brand Section starts -->
+	<div class="brand">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="swiper-container brand-slider">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<div class="brand-single">
+									<img src="images/brand-1.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">
+								<div class="brand-single">
+									<img src="images/brand-2.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">
+								<div class="brand-single">
+									<img src="images/brand-3.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">	
+								<div class="brand-single">
+									<img src="images/brand-4.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">	
+								<div class="brand-single">
+									<img src="images/brand-5.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">	
+								<div class="brand-single">
+									<img src="images/brand-6.png" alt="">
+								</div>
+							</div>
+							
+							
+							<div class="swiper-slide">
+								<div class="brand-single">
+									<img src="images/brand-3.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">	
+								<div class="brand-single">
+									<img src="images/brand-4.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">	
+								<div class="brand-single">
+									<img src="images/brand-5.png" alt="">
+								</div>
+							</div>
+							
+							<div class="swiper-slide">	
+								<div class="brand-single">
+									<img src="images/brand-6.png" alt="">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Brand Section ends -->
+	
+	<!-- Contact us section starts -->
+	<section class="contactus" id="contact">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title wow fadeInUp">
+						<p>Contact us Now</p>
+						<h2>Get in Touch With Us</h2>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-6">
+					<div class="contact-about">
+						<p>This is a test of building a landing page without really using Tailwind CSS.</p>
+					</div>
+					
+					<div class="row">
+						<div class="col-md-6">
+							<div class="contact-info-single">
+								<h3><i class="fa fa-map-marker"></i> Address</h3>
+								<p>95 Amphitheatre Parkway<br>
+								Mountain View CA,<br>
+								United States</p>
+							</div>
+						</div>
+						
+						<div class="col-md-6">
+							<div class="contact-info-single">
+								<h3><i class="fa fa-map-marker"></i> Contact Us</h3>
+								<p>Phone: +234 (312) 380-6650<br>
+								FAX: +234 (312) 380-6650<br>
+								Enquiries@nikea.com</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-6">
+					<!-- Contact Form start -->
+					<div class="contact-form">
+						<form id="contactForm" action="#" method="post" data-toggle="validator">
+							<div class="row">
+								<div class="form-group col-md-6 col-sm-6">
+									<input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required="">
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="form-group col-md-6 col-sm-6">
+									<input type="email" name="email" id="email" class="form-control" placeholder="Your Email" required="">
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="form-group col-md-6 col-sm-6">
+									<input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone" required="">
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="form-group col-md-6 col-sm-6">
+									<input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" required="">
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="form-group col-md-12 col-sm-12">
+									<textarea rows="6" name="message" id="message" class="form-control" placeholder="Write Your Message Here" required=""></textarea>
+									<div class="help-block with-errors"></div>
+								</div>
+								
+								<div class="col-md-12 col-sm-12">
+									<button type="submit" class="btn-contact" title="Submit Your Message!">Submit</button>
+									<div id="msgSubmit" class="h3 text-left hidden"></div>
+								</div>
+							</div>
+						</form>
+					</div>
+					<!-- Contact Form end -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Contact us section ends -->
+	
+	<!-- Footer section starts -->
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!-- Footer Logo start -->
+					<div class="footer-logo">
+						<img src="images/footer-logo.png" alt="">
+					</div>
+					<!-- Footer Logo end -->
+					
+					<!-- Footer Menu start -->
+					<div class="footer-menu">
+						<ul>
+							<li class="active"><a href="#home">Home</a></li>
+							<li><a href="#about">About</a></li>
+							<li><a href="#features">Features</a></li>
+							<li><a href="#related">Related</a></li>
+							<li><a href="#review">Review</a></li>
+							<li><a href="#product">Products</a></li>
+							<li><a href="#contact">Contact</a></li>
+						</ul>
+					</div>
+					<!-- Footer Menu end -->
+					
+					<!-- Footer Social start -->
+					<div class="footer-social">
+						<a href="#"><i class="fa fa-facebook"></i></a>
+						<a href="#"><i class="fa fa-instagram"></i></a>
+						<a href="#"><i class="fa fa-pinterest-p"></i></a>
+						<a href="#"><i class="fa fa-linkedin"></i></a>
+						<a href="#"><i class="fa fa-twitter"></i></a>
+						<a href="#"><i class="fa fa-dribbble"></i></a>
+					</div>
+					<!-- Footer Social end -->
+					
+					<!-- Footer siteinfo start -->
+					<div class="footer-siteinfo">
+						<p>Copyright &copy; Kanayo</p>
+					</div>
+					<!-- Footer siteinfo end -->
+					
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- Footer section ends -->
+	
+    <!-- Jquery Library File -->
+	<script src="js/jquery-1.12.4.min.js"></script>
+	<!-- Bootstrap js file -->
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/bootsnav.js"></script>
+	<!-- Bootstrap form validator -->
+	<script src="js/validator.min.js"></script>
+	<!-- Wow js file -->
+	<script src="js/wow.js"></script>
+	<!-- Swiper Carousel js file -->
+	<script src="js/swiper.min.js"></script>
+	<!-- SmoothScroll -->
+	<script src="js/SmoothScroll.js"></script>
+    <!-- Main Custom js file -->
+	<script src="js/function.js"></script>
+</body>
+</html>
